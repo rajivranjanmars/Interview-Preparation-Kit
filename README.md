@@ -8,4 +8,4 @@ Compile the solution you want to run independently, for example `g++ -std=c++11 
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
